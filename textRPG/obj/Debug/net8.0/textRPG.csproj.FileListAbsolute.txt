@@ -1,0 +1,14 @@
+C:\Users\abyss\C#_edu\textRPG\textRPG\bin\Debug\net8.0\textRPG.exe
+C:\Users\abyss\C#_edu\textRPG\textRPG\bin\Debug\net8.0\textRPG.deps.json
+C:\Users\abyss\C#_edu\textRPG\textRPG\bin\Debug\net8.0\textRPG.runtimeconfig.json
+C:\Users\abyss\C#_edu\textRPG\textRPG\bin\Debug\net8.0\textRPG.dll
+C:\Users\abyss\C#_edu\textRPG\textRPG\bin\Debug\net8.0\textRPG.pdb
+C:\Users\abyss\C#_edu\textRPG\textRPG\obj\Debug\net8.0\textRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abyss\C#_edu\textRPG\textRPG\obj\Debug\net8.0\textRPG.AssemblyInfoInputs.cache
+C:\Users\abyss\C#_edu\textRPG\textRPG\obj\Debug\net8.0\textRPG.AssemblyInfo.cs
+C:\Users\abyss\C#_edu\textRPG\textRPG\obj\Debug\net8.0\textRPG.csproj.CoreCompileInputs.cache
+C:\Users\abyss\C#_edu\textRPG\textRPG\obj\Debug\net8.0\textRPG.dll
+C:\Users\abyss\C#_edu\textRPG\textRPG\obj\Debug\net8.0\refint\textRPG.dll
+C:\Users\abyss\C#_edu\textRPG\textRPG\obj\Debug\net8.0\textRPG.pdb
+C:\Users\abyss\C#_edu\textRPG\textRPG\obj\Debug\net8.0\textRPG.genruntimeconfig.cache
+C:\Users\abyss\C#_edu\textRPG\textRPG\obj\Debug\net8.0\ref\textRPG.dll
